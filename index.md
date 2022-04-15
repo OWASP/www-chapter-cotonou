@@ -2,14 +2,25 @@
 
 layout: col-sidebar
 title: OWASP Cotonou
-tags: example-tag
+site_side: true
+tags: Cotonou 
 level: 0
-
 region: Africa
-
+currency: XOF
 auto-migrated: 1
+meetup-group: OWASP-Cotonou
+country: Benin
+postal-code: 05 BP 2473
 
 ---
+
+
+<!-- rebuild -->
+
+OWASP Cotonou
+-------------
+
+Welcome to the Cotonou chapter homepage. The chapter board is <a href="mailto:emerykouassi.assogba@owasp.org">Emery Assogba</a>, <a href="mailto:enselmeanicet.aguidigodo@owasp.org">Enselme Aguidigodo</a>, <a href="mailto:orace.kpakpo@owasp.org">Orace Kpakpo</a> and <a href="mailto:abousidikou.odjo@owasp.org">Abousidikou Odjo</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPLondon) | [Twitter](https://twitter.com/owasplondon) | [Meetup.com](https://meetup.com/OWASP-London)
 
 
 <!-- Standard Chapter Page Template
