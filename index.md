@@ -20,7 +20,7 @@ postal-code: 05 BP 2473
 OWASP Cotonou
 -------------
 
-Welcome to the Cotonou chapter homepage. The chapter board is <a href="mailto:emerykouassi.assogba@owasp.org">Emery Assogba</a>, <a href="mailto:enselmeanicet.aguidigodo@owasp.org">Enselme Aguidigodo</a>, <a href="mailto:orace.kpakpo@owasp.org">Orace Kpakpo</a> and <a href="mailto:abousidikou.odjo@owasp.org">Abousidikou Odjo</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPLondon) | [Twitter](https://twitter.com/owasplondon) | [Meetup.com](https://meetup.com/OWASP-London)
+Welcome to the Cotonou chapter homepage. The chapter board is <a href="mailto:emerykouassi.assogba@owasp.org">Emery Assogba</a>, <a href="mailto:enselmeanicet.aguidigodo@owasp.org">Enselme Aguidigodo</a>, <a href="mailto:orace.kpakpo@owasp.org">Orace Kpakpo</a> and <a href="mailto:abousidikou.odjo@owasp.org">Abousidikou Odjo</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPCotonou) | [Twitter](https://twitter.com/owaspcotonou) | [Meetup.com](https://meetup.com/OWASP-Cotonou)
 
 
 <!-- Standard Chapter Page Template
