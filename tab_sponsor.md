@@ -1,9 +1,9 @@
 #### *Supporters and Sponsors of OWASP Cotonou*
 
 > * ## EMES SARL
-> * ## MTN
-> * ## MOOV
-> * ## UAC
-> * ## IFRI
+> * ## MTN ![mtn](assets/images/mtn.jpeg)
+> * ## MOOV ![moov](assets/images/moov.png)
+> * ## UAC ![uac](assets/images/uac.png)
+> * ## IFRI ![ifri](assets/images/ifri.jpeg)
 > * ## Banks
-> * ## ANSSI
+> * ## ANSSI ![anssi](assets/images/anssi.png)
