@@ -6,4 +6,4 @@
 > * ## UAC <img alt="uac-logo" src="assets/images/uac.png" width="200px" height="200px">
 > * ## IFRI <img alt="ifri-logo" src="assets/images/ifri.jpeg" width="200px" height="200px">
 > * ## Banks
-> * ## ANSSI <img alt="anssi-logo" src="assets/images/anssi.png" width="200px" height="200px">
+> * ## ANSSI <img alt="anssi-logo" src="assets/images/anssi.png" width="200px" >
