@@ -1,6 +1,7 @@
 #### *Supporters and Sponsors of OWASP Cotonou*
 
 > * ## EMES SARL
+
 > * ## MTN 
  <figure>
     <img alt="mtn-logo" src="assets/images/mtn.jpeg" width="200px" height="200px">
