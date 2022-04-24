@@ -1,4 +1,2 @@
-A speaker is an expert designated to make a presentation at owasp meetings.
-If you would like to present an application security talk at future Cotonou Chapter events,
-please read and accept (the speaker agreement)[https://owasp.org/www-policy/legal/speaker-agreement] of OWASP and send the title,
-abstract and biography of the proposed speakers to the chapter leaders via (email chapter leader):oracekpakpo0@gmail.com
+### A speaker is an expert designated to make a presentation at owasp meetings.
+### If you would like to present an application security talk at future Cotonou Chapter events, please read and accept (the speaker agreement)[https://owasp.org/www-policy/legal/speaker-agreement] of OWASP and send the title, abstract and biography of the proposed speakers to the chapter leaders via [Orace Kpakpo](orace.kpakpo@owasp.org) [Abousidikou Odjo](abousidikou.odjo@owasp.org) [Enselme Anicet Aguidigodo](enselmeanicet.aguidigodo@owasp.ord) [Emery Kouassi Assogba](emerykouassi.assogba@owasp.org)
