@@ -54,4 +54,4 @@ Etisalat Group's brand MOOV operates throughout West Africa, in Benin, Togo, Gab
 implementation of the Information Systems Security Policy and reporting on it
 to the Minister in charge of Digital.</i></h5></p>
     </figcaption>
-</figure>
+</figure> 
