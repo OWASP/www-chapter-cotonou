@@ -22,6 +22,12 @@ OWASP Cotonou
 
 Welcome to the Cotonou chapter homepage. The chapter board is <a href="mailto:emerykouassi.assogba@owasp.org">Emery Assogba</a>, <a href="mailto:enselmeanicet.aguidigodo@owasp.org">Enselme Aguidigodo</a>, <a href="mailto:orace.kpakpo@owasp.org">Orace Kpakpo</a> and <a href="mailto:abousidikou.odjo@owasp.org">Abousidikou Odjo</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPCotonou) | [Twitter](https://twitter.com/owaspcotonou) | [Meetup.com](https://meetup.com/OWASP-Cotonou)
 
+## Meetings
+Owasp meeting is a meeting organized by the owasp chapter using a speaker to discuss various aspects of computer security. In a friendly and fun setting, discussions are held by professionals on relevant and complex topics for the purpose of learning and technology watch. These meetings can be face-to-face or online.
+
+These meetings are part of the OWASP activities; they are open to the public, and you do not need to be a member to attend. These meetings are free of charge. To participate, simply visit our [Meetup page]( http://www.meetup.com/OWASP-COTONOU).
+
+Please consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects and meetings useful, or if you sponsor this chapter.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
