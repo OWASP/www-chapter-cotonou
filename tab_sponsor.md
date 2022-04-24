@@ -50,6 +50,8 @@ Etisalat Group's brand MOOV operates throughout West Africa, in Benin, Togo, Gab
 <figure>
     <img alt="anssi-logo" src="assets/images/anssi.png" width="200px" height="200px">
     <figcaption align="left">
-        <p>Mnt----</p>
+        <p><h5><i>The National Agency for the Security of Information Systems (ANSSI) is a structure of the Beninese State which evaluates each year, the
+implementation of the Information Systems Security Policy and reporting on it
+to the Minister in charge of Digital.</i></h5></p>
     </figcaption>
 </figure>
