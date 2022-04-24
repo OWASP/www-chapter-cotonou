@@ -4,4 +4,3 @@
 ### Social Links
 * [Meetup](https://meetup.com/OWASP-Cotonou)
 * [Facebook](https://www.facebook.com/OWASPCotonou)
-* [Twitter] (https://twitter.com/owaspcotonou)
