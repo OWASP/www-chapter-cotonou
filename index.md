@@ -2,12 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Cotonou
-site_side: true
 tags: Cotonou 
 level: 0
 region: Africa
-currency: XOF
-auto-migrated: 1
 meetup-group: OWASP-Cotonou
 country: Benin
 postal-code: 05 BP 2473
@@ -15,7 +12,6 @@ postal-code: 05 BP 2473
 ---
 
 
-<!-- rebuild -->
 
 OWASP Cotonou
 -------------
