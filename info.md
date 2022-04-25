@@ -2,5 +2,5 @@
 * Africa
 
 ### Social Links
-* [Meetup](https://meetup.com/OWASP-Cotonou)
+* [Meetup](https://www.meetup.com/owasp-cotonou-chapter/)
 * [Facebook](https://www.facebook.com/OWASPCotonou)
