@@ -5,7 +5,7 @@ title: OWASP Cotonou
 tags: Cotonou 
 level: 0
 region: Africa
-meetup-group: OWASP-Cotonou
+meetup-group: owasp-cotonou-chapter
 country: Benin
 postal-code: 05 BP 2473
 
