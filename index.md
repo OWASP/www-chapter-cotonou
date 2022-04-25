@@ -5,7 +5,7 @@ title: OWASP Cotonou
 tags: Cotonou 
 level: 0
 region: Africa
-meetup-group: OWASP-Cotonou
+meetup-group: owasp-cotonou-chapter
 country: Benin
 postal-code: 05 BP 2473
 
@@ -39,7 +39,7 @@ Meetings
 
 Owasp meeting is a meeting organized by the owasp chapter using a speaker to discuss various aspects of computer security. In a friendly and fun setting, discussions are held by professionals on relevant and complex topics for the purpose of learning and technology watch. These meetings can be face-to-face or online.
 
-These meetings are part of the OWASP activities; they are open to the public, and you do not need to be a member to attend. These meetings are free of charge. To participate, simply visit our [Meetup page]( http://www.meetup.com/OWASP-COTONOU).
+These meetings are part of the OWASP activities; they are open to the public, and you do not need to be a member to attend. These meetings are free of charge. To participate, simply visit our [Meetup page]( http://www.meetup.com/owasp-cotonou-chapter).
 
 Please consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects and meetings useful, or if you sponsor this chapter.
 
