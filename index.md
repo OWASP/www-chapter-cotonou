@@ -18,13 +18,6 @@ OWASP Cotonou
 
 Welcome to the Cotonou chapter homepage. The chapter board is <a href="mailto:emerykouassi.assogba@owasp.org">Emery Assogba</a>, <a href="mailto:enselmeanicet.aguidigodo@owasp.org">Enselme Aguidigodo</a>, <a href="mailto:orace.kpakpo@owasp.org">Orace Kpakpo</a> and <a href="mailto:abousidikou.odjo@owasp.org">Abousidikou Odjo</a>.
 
-About OWASP
------------
-
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. OWASP is hundreds of chapters around the world, tens of thousands of members for the improvement of software security through open source projects supported by the community. Thousands of local and global conferences are organized all over the world.
-
-Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button [Donate](/donate). To be a SPEAKER at ANY OWASP Chapter, simply review the [Speaker Agreement](https://owasp.org/www-policy/) and then contact the locals Chapter Leader with details of the OWASP project, independent research, or related software security topic you would like to present.
-
 OWASP-Cotonou Chapter aims
 --------------------------
 
@@ -32,6 +25,14 @@ Benin is located in West Africa between Nigeria and Togo. At one time, in Benin,
 The OWASP-Cotonou chapter aims to contribute to the awareness of software security issues in Benin through activities offered by the OWASP foundation.
 
 Specifically, the enormous resources made available by the OWASP community around the world constitute an opportunity for public authorities, decision-makers, new graduates in terms of training, good practices and networking. Our mission and main priority is to use these resources to create cybersecurity awareness in Cotonou and Benin in general.
+
+About OWASP
+-----------
+
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve software security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. OWASP is hundreds of chapters around the world, tens of thousands of members for the improvement of software security through open source projects supported by the community. Thousands of local and global conferences are organized all over the world.
+
+Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button [Donate](/donate). To be a SPEAKER at ANY OWASP Chapter, simply review the [Speaker Agreement](https://owasp.org/www-policy/) and then contact the locals Chapter Leader with details of the OWASP project, independent research, or related software security topic you would like to present.
+
 
 
 Meetings
