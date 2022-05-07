@@ -11,6 +11,8 @@ tags: Cotonou
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
+For more details on our future events please visit our meetup group:
+
 [https://www.meetup.com/owasp-cotonou-chapter/](https://www.meetup.com/owasp-cotonou-chapter/)
 
 ---
