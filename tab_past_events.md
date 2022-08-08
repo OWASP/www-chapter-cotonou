@@ -1,3 +1,11 @@
+---
+title: Past Events
+displaytext: Past Events
+layout:  null
+tab: true
+order: 4
+tags: Cotonou
+---
 The OWASP-Cotonou chapter would like to thank everyone and especially its donors for your support during the organization of its first Meeting which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of the National School of Applied Economics and Management (ENEAM) and was a great success thanks to you.
 
 You will find attached the different presentations:
