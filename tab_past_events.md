@@ -1,7 +1,7 @@
 ---
 title: past_events
 layout:  null
-tab: true
+tab: false
 order: 4
 tags: Cotonou
 ---
