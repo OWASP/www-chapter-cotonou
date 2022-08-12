@@ -6,7 +6,28 @@ tab: false
 order: 4
 tags: Cotonou
 ---
-The OWASP-Cotonou chapter would like to thank everyone and especially its donors for your support during the organization of its first Meeting which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of the National School of Applied Economics and Management (ENEAM) and was a great success thanks to you.
+The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best practices for securing information systems in Benin"</i></h4> which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
+
+<h5>Speakers</h5>
+
+<ul>
+    <li>Mr Orace KPAKPO , Expert in computer networks, Expert in eBPF technology and leader of the OWASP-Cotonou chapter introduce OWASP Foundation
+    </li>
+
+    <li>Mrs KASSA Célia, Expert in computer network performance analysis. passionate about security issues introduce OWASP-Cotonou
+    </li>
+
+    <li>
+    Mr Caleb K. Sambienou, Engineer in Information Systems and Computer Networks, JAVA Backend Developer (Spring Boot),
+    Front-end Developer (Angular), Consultant, exposes "Personal data: Security issue for companies and individuals"
+    </li>
+
+    <li>
+    Mr Caleb K. Sambienou, Engineer in Information Systems and Computer Networks, JAVA Backend Developer (Spring Boot),
+    Front-end Developer (Angular), Consultant, exposes "Personal data: Security issue for companies and individuals"
+    </li>
+</ul>
+
 
 You will find attached the different presentations:
 
@@ -24,6 +45,10 @@ https://youtube.com/playlist?list=PL0R8AKy0Prbmtj2pfUPTzdtbaZzbNF38q
 We would be very grateful if you would help us improve by filling out the form below:
 https://fr.surveymonkey.com/r/XP27NKB
 
-Once again, a very big thank you to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially its donors (EMES, ENEAM, APDP) for their support during the organization of its first meeting. Once again, a very big thank you to you.
 
 OWASP-Cotonou.
+
+EMES website: https://www.emes.bj/
+APDP website: https://www.apdp.bj/
+ENEAM website: http://eneam.uac.bj/
