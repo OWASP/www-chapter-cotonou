@@ -46,10 +46,11 @@ https://youtube.com/playlist?list=PL0R8AKy0Prbmtj2pfUPTzdtbaZzbNF38q
 We would be very grateful if you would help us improve by filling out the form below:
 https://fr.surveymonkey.com/r/XP27NKB
 
-The OWASP-Cotonou chapter would like to thank everyone and especially its donors (EMES, ENEAM, APDP) for their support during the organization of its first meeting. Once again, a very big thank you to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially its donors (EMES, ENEAM) and his guests APDP & ANSSI for their support during the organization of its first meeting. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
 
 EMES website: https://www.emes.bj/
 APDP website: https://www.apdp.bj/
 ENEAM website: http://eneam.uac.bj/
+ANSSI website: https://anssi.bj/
