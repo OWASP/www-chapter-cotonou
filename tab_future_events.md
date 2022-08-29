@@ -15,6 +15,9 @@ For more details on our future events please visit our meetup group:
 
 [https://www.meetup.com/owasp-cotonou-chapter/](https://www.meetup.com/owasp-cotonou-chapter/)
 
+
+Owasp-Cotonou intends to plan his next meeting in November 2022
+
 ---
 
 {% include chapter_events.html group=page.meetup-group %}
