@@ -16,7 +16,7 @@ The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best pract
 </li>
 
 <li>
-    Mrs KASSA Célia, Expert in computer network performance analysis. passionate about security issues introduce    OWASP-Cotonou
+    Mrs KASSA Célia, Expert in computer network performance analysis. passionate about security issues introduce OWASP-Cotonou
 </li>
 
 <li>
@@ -25,19 +25,21 @@ The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best pract
 </li>
 
 <li>
-    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. He is a teacher-researcher in networks and security at the University of Abomey-Calavi. Certified Hacker Ethics, he is the current president of the Cotonou session of the Owasp foundation. He exposes "Improve the security of E-services with owasp web security testing Guide"
+    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. He is a teacher-researcher in networks and security at the University of Abomey-Calavi. Certified Hacker Ethics, he exposes "Improve the security of E-services with owasp web security testing Guide"
 </li>
 </ul>
 
 
 You will find attached the different presentations:
 
-https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP
-https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou
+<a href="https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP">OWASP Foundation presentation</a>
 
-https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus
+<a href="https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou">OWASP-Cotonou chapter presentation</a>
 
-https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide
+<a href="https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus">Personal data: Security issue for companies and individuals</a>
+
+<a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+Security improvement of E-services with owasp web security testing Guide</a>
 
 You can also relive the event by viewing the videos:
 
