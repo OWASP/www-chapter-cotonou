@@ -41,6 +41,7 @@ You will find attached the different presentations:
 <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
 Security improvement of E-services with owasp web security testing Guide</a>
 
+<br/>
 You can also relive the event by viewing the videos:
 
 https://youtube.com/playlist?list=PL0R8AKy0Prbmtj2pfUPTzdtbaZzbNF38q
