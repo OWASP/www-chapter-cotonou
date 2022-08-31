@@ -15,7 +15,7 @@ The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best pract
 </li>
 
 <li>
-    Mrs KASSA Célia, Expert in computer network performance analysis. passionate about security issues introduce    OWASP-Cotonou
+    Mrs KASSA Célia, Expert in computer network performance analysis. passionate about security issues introduce OWASP-Cotonou
 </li>
 
 <li>
@@ -24,20 +24,23 @@ The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best pract
 </li>
 
 <li>
-    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. He is a teacher-researcher in networks and security at the University of Abomey-Calavi. Certified Hacker Ethics, he is the current president of the Cotonou session of the Owasp foundation. He exposes "Improve the security of E-services with owasp web security testing Guide"
+    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. He is a teacher-researcher in networks and security at the University of Abomey-Calavi. Certified Hacker Ethics, he exposes "Improve the security of E-services with owasp web security testing Guide"
 </li>
 </ul>
 
 
 You will find attached the different presentations:
 
-https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP
-https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou
+<a href="https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP">OWASP Foundation presentation</a>
 
-https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus
+<a href="https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou">OWASP-Cotonou chapter presentation</a>
 
-https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide
+<a href="https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus">Personal data: Security issue for companies and individuals</a>
 
+<a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+Security improvement of E-services with owasp web security testing Guide</a>
+
+<br/>
 You can also relive the event by viewing the videos:
 
 https://youtube.com/playlist?list=PL0R8AKy0Prbmtj2pfUPTzdtbaZzbNF38q
@@ -45,13 +48,6 @@ https://youtube.com/playlist?list=PL0R8AKy0Prbmtj2pfUPTzdtbaZzbNF38q
 We would be very grateful if you would help us improve by filling out the form below:
 https://fr.surveymonkey.com/r/XP27NKB
 
-Owasp-Cotonou intends to plan his next meeting in November 2022
-
-The OWASP-Cotonou chapter would like to thank everyone and especially its donors (EMES, ENEAM) and his guests APDP & ANSSI for their support during the organization of its first meeting. Once again, a very big thanks to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially its donors (<a href="https://www.emes.bj/">EMES</a>, <a href="http://eneam.uac.bj/">ENEAM</a>) and his guests <a href="https://www.apdp.bj/">APDP</a> & <a href="https://anssi.bj/">ANSSI</a> for their support during the organization of its first meeting. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
-
-EMES website: https://www.emes.bj/
-APDP website: https://www.apdp.bj/
-ENEAM website: http://eneam.uac.bj/
-ANSSI website: https://anssi.bj/
