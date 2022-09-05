@@ -13,27 +13,27 @@ The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best pract
 <ul>
 <li>
     Mr Orace KPAKPO , Expert in computer networks, Expert in eBPF technology and leader of the OWASP-Cotonou chapter introduce
-    <a href="https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP">OWASP Foundation</a>, here is the presentation in video 
-    <a href="https://www.youtube.com/watch?v=I0RkUlpzF6w&t=7s">
+    <a href="https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP">OWASP Foundation</a>,  
+    <a href="https://www.youtube.com/watch?v=I0RkUlpzF6w&t=7s">here is the presentation in video</a>
 </li>
 
 <li>
     Mrs KASSA Célia, Expert in computer network performance analysis introduce
-    <a href="https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou">OWASP-Cotonou chapter</a>, here is the presentation in video 
-    <a href="https://www.youtube.com/watch?v=I0RkUlpzF6w&t=7s">
+    <a href="https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou">OWASP-Cotonou chapter</a>, 
+    <a href="https://www.youtube.com/watch?v=I0RkUlpzF6w&t=7s">here is the presentation in video</a>
 </li>
 
 <li>
     Mr Caleb K. Sambienou, Engineer in Information Systems and Computer Networks, JAVA Backend Developer (Spring Boot),
-    Front-end Developer (Angular), Consultant, exposes <a href="https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus">Personal data: Security issue for companies and individuals</a>, here is the presentation in video 
-    <a href="https://www.youtube.com/watch?v=MVRGdjG39TI&t=596s">
+    Front-end Developer (Angular), Consultant, exposes <a href="https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus">Personal data: Security issue for companies and individuals</a>, 
+    <a href="https://www.youtube.com/watch?v=MVRGdjG39TI&t=596s">here is the presentation in video</a>
 </li>
 
 <li>
     Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, exposes 
 <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
-Security improvement of E-services with owasp web security testing Guide</a>, here is the presentation in video 
-    <a href="https://www.youtube.com/watch?v=3Tv3pGO3K2g&t=7s">
+Security improvement of E-services with owasp web security testing Guide</a>, 
+    <a href="https://www.youtube.com/watch?v=3Tv3pGO3K2g&t=7s">here is the presentation in video</a>
 </li>
 </ul>
 
