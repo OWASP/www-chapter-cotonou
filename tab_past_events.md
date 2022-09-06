@@ -6,7 +6,7 @@ tab: true
 order: 4
 tags: Cotonou
 ---
-The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best practices for securing information systems in Benin"</i></h4> which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
+The OWASP-Cotonou chapter held its first meeting on <h5><i>"Tools and best practices for securing information systems in Benin"</i></h5> which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
 
 <h5>Speakers</h5>
 
