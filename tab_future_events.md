@@ -25,7 +25,9 @@ With the participation of Dr Arnaud Ahouandjinou Head of the IS Department of IF
 Dr Lionel Metongnon expert in IoT security
 and Dr Emery Assogba System Security Expert and  EMES SARL CTO.
 
-
+Date: 24th November 2022
+Hour: 4 PM UTC+1
+Venues: APDP, Jéricho Cotonou
 
 ---
 
