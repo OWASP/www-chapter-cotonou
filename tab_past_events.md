@@ -1,52 +1,41 @@
 ---
 title: past_events
 layout:  null
-tab: false
+tab: true
 order: 4
 tags: Cotonou
 ---
-The OWASP-Cotonou chapter held its first meeting on <h4><i>"Tools and best practices for securing information systems in Benin"</i></h4> which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
+The OWASP-Cotonou chapter held its first meeting on ***<i>"Tools and best practices for securing information systems in Benin"</i>*** which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
 
 <h5>Speakers</h5>
 
 <ul>
 <li>
-    Mr Orace KPAKPO , Expert in computer networks, Expert in eBPF technology and leader of the OWASP-Cotonou chapter introduce OWASP Foundation
+    Mr Orace KPAKPO , Expert in computer networks, Expert in eBPF technology and leader of the OWASP-Cotonou chapter introduce
+    <a href="https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP">OWASP Foundation</a>,  
+    <a href="https://www.youtube.com/watch?v=I0RkUlpzF6w&t=7s">here is the presentation in video</a>
 </li>
 
 <li>
-    Mrs KASSA Célia, Expert in computer network performance analysis. passionate about security issues introduce OWASP-Cotonou
+    Mrs KASSA Célia, Expert in computer network performance analysis introduce
+    <a href="https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou">OWASP-Cotonou chapter</a>, 
+    <a href="https://www.youtube.com/watch?v=I0RkUlpzF6w&t=7s">here is the presentation in video</a>
 </li>
 
 <li>
     Mr Caleb K. Sambienou, Engineer in Information Systems and Computer Networks, JAVA Backend Developer (Spring Boot),
-    Front-end Developer (Angular), Consultant, exposes "Personal data: Security issue for companies and individuals"
+    Front-end Developer (Angular), Consultant, exposes <a href="https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus">Personal data: Security issue for companies and individuals</a>, 
+    <a href="https://www.youtube.com/watch?v=MVRGdjG39TI&t=596s">here is the presentation in video</a>
 </li>
 
 <li>
-    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. He is a teacher-researcher in networks and security at the University of Abomey-Calavi. Certified Hacker Ethics, he exposes "Improve the security of E-services with owasp web security testing Guide"
+    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, exposes 
+<a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+Security improvement of E-services with owasp web security testing Guide</a>, 
+    <a href="https://www.youtube.com/watch?v=3Tv3pGO3K2g&t=7s">here is the presentation in video</a>
 </li>
 </ul>
 
-
-You will find attached the different presentations:
-
-<a href="https://fr.scribd.com/presentation/583222986/Presentation-d-OWASP">OWASP Foundation presentation</a>
-
-<a href="https://fr.scribd.com/presentation/583223907/Presentation-du-chapitre-OWASP-Cotonou">OWASP-Cotonou chapter presentation</a>
-
-<a href="https://fr.scribd.com/presentation/583225461/Donnees-a-caractere-personnel-Enjeu-securitaire-pour-les-entreprises-et-les-individus">Personal data: Security issue for companies and individuals</a>
-
-<a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
-Security improvement of E-services with owasp web security testing Guide</a>
-
-<br/>
-You can also relive the event by viewing the videos:
-
-https://youtube.com/playlist?list=PL0R8AKy0Prbmtj2pfUPTzdtbaZzbNF38q
-
-We would be very grateful if you would help us improve by filling out the form below:
-https://fr.surveymonkey.com/r/XP27NKB
 
 The OWASP-Cotonou chapter would like to thank everyone and especially its donors (<a href="https://www.emes.bj/">EMES</a>, <a href="http://eneam.uac.bj/">ENEAM</a>) and his guests <a href="https://www.apdp.bj/">APDP</a> & <a href="https://anssi.bj/">ANSSI</a> for their support during the organization of its first meeting. Once again, a very big thanks to you.
 
