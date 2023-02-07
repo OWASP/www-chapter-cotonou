@@ -17,18 +17,14 @@ For more details on our future events please visit our meetup group:
 
 ---
 
-Next meeting: Personal data protection challenges and opportunities
+Next meeting:
 
-The main topic of the meeting is challenges and opportunities of personal data protection. The speakers will address topics related to the challenges of data protection within the company and the constraints imposed by the regulator. It would also be an opportunity to discover the opportunities offered by the OWASP community to its active members.
-
-With the participation of Dr Arnaud Ahouandjinou Head of the IS Department of IFRI/UAC
-Dr Lionel Metongnon expert in IoT security
-and Dr Emery Assogba System Security Expert and  EMES SARL CTO.
-
-Date: 1st December 2022
-Hour: 4 PM UTC+1
-Venues: APDP, Jéricho Cotonou
-
+XML External Entity: Detection - exploitation - Protection by Ing. Orace Kpakpo OWASP Chapter leader &
+Insecure Direct Object Reference Vulnerabilities: Cause and Consequences by Ing Célia Kassa OWASP Chapter leader
+ 
+Date: 10 February 2023
+Hour: 5:30 PM UTC+1
+Venues: Zoom
 ---
 
 {% include chapter_events.html group=page.meetup-group %}
