@@ -40,3 +40,33 @@ Security improvement of E-services with owasp web security testing Guide</a>,
 The OWASP-Cotonou chapter would like to thank everyone and especially its donors (<a href="https://www.emes.bj/">EMES</a>, <a href="http://eneam.uac.bj/">ENEAM</a>) and his guests <a href="https://www.apdp.bj/">APDP</a> & <a href="https://anssi.bj/">ANSSI</a> for their support during the organization of its first meeting. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
+
+The OWASP-Cotonou chapter held its second meeting on ***<i>"Personal data protection:challenges and opportunities"</i>*** which took place on December 01, 2022 in Cotonou, Gbégamey in the grounds of APDP and was a great success.
+
+The main topic of the meeting was challenges and opportunities of personal data protection. The speakers addressed topics related to the challenges of data protection within the company and the constraints imposed by the regulator. It was an opportunity to discover the opportunities offered by the OWASP community to its active members.
+
+<h5>Speakers</h5>
+
+<ul>
+<li>
+    Dr Arnaud Ahouandjinou Head of the IS Department of IFRI/UAC
+</li>
+
+<li>
+    Dr Lionel Metongnon expert in IoT security
+</li>
+
+<li>
+    Dr Emery Assogba System Security Expert and  EMES SARL CTO
+</li>
+
+<li>
+    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker 
+</li>
+</ul>
+
+Here is the recorded <a href="https://www.youtube.com/watch?v=DZ0-ybyA8JM">meeting</a>
+
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://www.apdp.bj/">APDP</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+
+OWASP-Cotonou.
