@@ -17,14 +17,6 @@ For more details on our future events please visit our meetup group:
 
 ---
 
-Next meeting:
-
-XML External Entity: Detection - exploitation - Protection by Ing. Orace Kpakpo OWASP Chapter leader &
-Insecure Direct Object Reference Vulnerabilities: Cause and Consequences by Ing Célia Kassa OWASP Chapter leader
- 
-Date: 10 February 2023
-Hour: 5:30 PM UTC+1
-Venues: Zoom
 ---
 
 {% include chapter_events.html group=page.meetup-group %}
