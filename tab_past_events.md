@@ -14,25 +14,27 @@ The main topic of the meeting was challenges and opportunities of personal data 
 
 <ul>
 <li>
-    Dr Arnaud Ahouandjinou Head of the IS Department of IFRI/UAC
+    Dr Arnaud Ahouandjinou Head of the IS Department of IFRI/UAC, exposes 
+    <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+    Protection of personal data within African companies: opportunities and challenges</a>
 </li>
 
 <li>
-    Dr Lionel Metongnon expert in IoT security
+    Dr Lionel Metongnon expert in IoT security, exposes 
+    <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+    Tokenization as a personal data protection measure</a>
 </li>
 
 <li>
-    Dr Emery Assogba System Security Expert and  EMES SARL CTO
-</li>
-
-<li>
-    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker 
+    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, introduce
+    <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+    OWASP Foundation and OWASP-Cotonou</a>
 </li>
 </ul>
 
 Here is the recorded <a href="https://www.youtube.com/watch?v=DZ0-ybyA8JM">meeting</a>
 
-The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://www.apdp.bj/">APDP</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://www.apdp.bj/">APDP</a>,<a href="https://www.emes.bj/">EMES</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
 
