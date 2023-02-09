@@ -15,19 +15,19 @@ The main topic of the meeting was challenges and opportunities of personal data 
 <ul>
 <li>
     Dr Arnaud Ahouandjinou Head of the IS Department of IFRI/UAC, exposes 
-    <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+    <a href="assets/images/Present-OWASP-AhA.pptx">
     Protection of personal data within African companies: opportunities and challenges</a>
 </li>
 
 <li>
     Dr Lionel Metongnon expert in IoT security, exposes 
-    <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+    <a href="assets/images/owasp-chapter-OWASP-La-tokenisation-comme-mesure-de-protection-des-données-personnelles.pptx">
     Tokenization as a personal data protection measure</a>
 </li>
 
 <li>
     Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, introduce
-    <a href="https://fr.scribd.com/presentation/583226393/Ameliorer-la-securite-des-E-services-avec-OWASP-Web-Security-Testing-Guide">
+    <a href="owasp-chapter-OWASP-Web-Security-Testing-Guide.pptx.pdf">
     OWASP Foundation and OWASP-Cotonou</a>
 </li>
 </ul>
