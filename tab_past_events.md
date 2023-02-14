@@ -26,7 +26,7 @@ The main topic of the meeting was challenges and opportunities of personal data 
 </li>
 
 <li>
-    Mr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, introduce
+    Dr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, introduce
     <a href="owasp-chapter-OWASP-Web-Security-Testing-Guide.pptx.pdf">
     OWASP Foundation and OWASP-Cotonou</a>
 </li>
@@ -38,6 +38,7 @@ The OWASP-Cotonou chapter would like to thank everyone and especially <a href="h
 
 OWASP-Cotonou.
 
+<h4>----------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
 The OWASP-Cotonou chapter held its first meeting on ***<i>"Tools and best practices for securing information systems in Benin"</i>*** which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
 
 <h5>Speakers</h5>
