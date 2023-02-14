@@ -38,7 +38,8 @@ The OWASP-Cotonou chapter would like to thank everyone and especially <a href="h
 
 OWASP-Cotonou.
 
-<h4>----------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+
 The OWASP-Cotonou chapter held its first meeting on ***<i>"Tools and best practices for securing information systems in Benin"</i>*** which took place on July 07, 2022 in Cotonou, Gbégamey in the grounds of ENEAM and was a great success.
 
 <h5>Speakers</h5>
