@@ -6,6 +6,29 @@ order: 4
 tags: Cotonou
 ---
 
+JINF-CTF is a free computer security problem solving competition organized by EMES Sarl for computer science students in Benin on the occasion of the computer science day organized by IFRI.
+
+<h5>Speakers</h5>
+
+<ul>
+<li>
+    Ing Célia Kassa, Network Engineer, exposes 
+    <a href="assets/images/Present-OWASP-AhA.pptx">
+    Protection of personal data within African companies: opportunities and challenges</a>
+</li>
+
+<li>
+    Ing Orace Kpakpo, Network Engineer, exposes 
+    <a href="assets/images/owasp-chapter-OWASP-La-tokenisation-comme-mesure-de-protection-des-données-personnelles.pptx">
+    XML External Entity</a>
+</li>
+
+</ul>
+
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://ifri-uac.bj/">IFRI</a>,<a href="https://www.emes.bj/">EMES</a> for their support during the organization of this event. Once again, a very big thanks to you.
+
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+
 The OWASP-Cotonou chapter held its second meeting on ***<i>"Personal data protection:challenges and opportunities"</i>*** which took place on December 01, 2022 in Cotonou, Gbégamey in the grounds of APDP and was a great success.
 
 The main topic of the meeting was challenges and opportunities of personal data protection. The speakers addressed topics related to the challenges of data protection within the company and the constraints imposed by the regulator. It was an opportunity to discover the opportunities offered by the OWASP community to its active members.
