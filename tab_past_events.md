@@ -27,6 +27,7 @@ JINF-CTF was a free computer security problem solving competition organized the 
 
 The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://ifri-uac.bj/">IFRI</a>,<a href="https://www.emes.bj/">EMES</a> for their support during the organization of this event. Once again, a very big thanks to you.
 
+OWASP-Cotonou.
 <h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 The OWASP-Cotonou chapter held its second meeting on ***<i>"Personal data protection:challenges and opportunities"</i>*** which took place on December 01, 2022 in Cotonou, Gbégamey in the grounds of APDP and was a great success.
