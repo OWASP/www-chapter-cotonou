@@ -13,14 +13,14 @@ JINF-CTF is a free computer security problem solving competition organized by EM
 <ul>
 <li>
     Ing Célia Kassa, Network Engineer, exposes 
-    <a href="assets/images/Present-OWASP-AhA.pptx">
-    Protection of personal data within African companies: opportunities and challenges</a>
+    <a href="assets/images/owasp-idor.pptx">
+    Insecure Direct Object Reference(IDOR)</a>
 </li>
 
 <li>
     Ing Orace Kpakpo, Network Engineer, exposes 
-    <a href="assets/images/owasp-chapter-OWASP-La-tokenisation-comme-mesure-de-protection-des-données-personnelles.pptx">
-    XML External Entity</a>
+    <a href="assets/images/owasp-xml-entity.pptx">
+    XML External Entity(XXE)</a>
 </li>
 
 </ul>
