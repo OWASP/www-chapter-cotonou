@@ -6,7 +6,7 @@ order: 4
 tags: Cotonou
 ---
 
-JINF-CTF is a free computer security problem solving competition organized by EMES Sarl for computer science students in Benin on the occasion of the computer science day organized by IFRI.
+JINF-CTF was a free computer security problem solving competition organized the last 10/02/2023 by EMES Sarl for computer science students in Benin on the occasion of the computer science day organized by IFRI. It was an opportunity to introduce some web vulnerabilities such as IDOR and XXE
 
 <h5>Speakers</h5>
 
