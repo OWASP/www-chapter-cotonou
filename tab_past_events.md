@@ -25,7 +25,7 @@ JINF-CTF was a free computer security problem solving competition organized the 
 
 </ul>
 
-The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://ifri-uac.bj/">IFRI</a>,<a href="https://www.emes.bj/">EMES</a> for their support during the organization of this event. Once again, a very big thanks to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://ifri-uac.bj/">IFRI</a>,<a href="https://emes.bj/">EMES</a> for their support during the organization of this event. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
 <h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
@@ -58,7 +58,7 @@ The main topic of the meeting was challenges and opportunities of personal data 
 
 Here is the recorded <a href="https://www.youtube.com/watch?v=DZ0-ybyA8JM">meeting</a>
 
-The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://www.apdp.bj/">APDP</a>,<a href="https://www.emes.bj/">EMES</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://www.apdp.bj/">APDP</a>,<a href="https://emes.bj/">EMES</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
 
@@ -96,7 +96,7 @@ Security improvement of E-services with owasp web security testing Guide</a>,
 </ul>
 
 
-The OWASP-Cotonou chapter would like to thank everyone and especially its donors (<a href="https://www.emes.bj/">EMES</a>, <a href="http://eneam.uac.bj/">ENEAM</a>) and his guests <a href="https://www.apdp.bj/">APDP</a> & <a href="https://anssi.bj/">ANSSI</a> for their support during the organization of its first meeting. Once again, a very big thanks to you.
+The OWASP-Cotonou chapter would like to thank everyone and especially its donors (<a href="https://emes.bj/">EMES</a>, <a href="http://eneam.uac.bj/">ENEAM</a>) and his guests <a href="https://www.apdp.bj/">APDP</a> & <a href="https://anssi.bj/">ANSSI</a> for their support during the organization of its first meeting. Once again, a very big thanks to you.
 
 OWASP-Cotonou.
 
