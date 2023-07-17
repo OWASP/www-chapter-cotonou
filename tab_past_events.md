@@ -6,6 +6,34 @@ order: 4
 tags: Cotonou
 ---
 
+The OWASP-Cotonou chapter held its third meeting on ***<i>"Web applications: improving or endangering the lives of users?"</i>*** which took place on April 20, 2023 in Cotonou, in the grounds of PIGIER BENIN and was a great success.
+
+The main topic of the meeting was impact of web applications on end user. The speakers addressed topics related to the topic. It was an opportunity to discover the opportunities offered by the OWASP community to its active members.
+
+<h5>Speakers</h5>
+
+<ul>
+<li>
+    Orace KPAKPO, Networks and Systems Engineer, Cybersecurity Analyst at EMES SARL, leader of the OWASP Cotonou chapter, exposes 
+    <a href="">
+    Impacts of digitalization on Internet users</a>
+</li>
+
+<li>
+    Victor OYETOLA, ICT Expert, head of SPTIC at UAC, exposes 
+    <a href="">
+    Digitization and security in Benin</a>
+</li>
+
+</ul>
+
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://pigier-benin.com/">PIGIER-BENIN</a>,
+<a href="https://emes.bj/">EMES</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+
+OWASP-Cotonou.
+
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+
 JINF-CTF was a free computer security problem solving competition organized the last 10/02/2023 by EMES Sarl for computer science students in Benin on the occasion of the computer science day organized by IFRI. It was an opportunity to introduce some web vulnerabilities such as IDOR and XXE
 
 <h5>Speakers</h5>
