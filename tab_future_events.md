@@ -30,8 +30,7 @@ The OWASP-Cotonou chapter will hold is next meeting  meeting on ***<i>"The profe
    
 </li>
 
-<li>
- <i>  
+<li>  
  <a href="">
     The importance of audit in the life of an organization: Lessons learned</a> The speaker, through his experience as an auditor within public and private financial structures, will present the lessons learned from the audit. What lessons can we learn after more than 10 years of auditing financial structures? What are the challenges? What are the opportunities? <br>
     
