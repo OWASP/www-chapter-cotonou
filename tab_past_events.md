@@ -15,7 +15,7 @@ The main topic of the meeting was the challenges and opportunities of the IT aud
 <ul>
 <li>
     Dr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, exposes 
-    <a href="">
+    <a href="assets/images/owasp-chapter-audit-OWASP-Cotonou.pptx.pdf">
     Auditing norms and standards for the IT function within an organization: Practical values</a>
 </li>
 
