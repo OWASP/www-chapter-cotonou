@@ -21,7 +21,7 @@ The main topic of the meeting was the challenges and opportunities of the IT aud
 
 <li>
     Dr Evariste SONGBE, accounting expert, exposes 
-    <a href="">
+    <a href="assets/images/Communication-sur-les-lecons-apprises-de-audit.ppt">
     The importance of auditing in the life of an organization: Lessons learned.</a>
 </li>
 
