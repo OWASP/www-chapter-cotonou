@@ -6,6 +6,58 @@ order: 4
 tags: Cotonou
 ---
 
+The OWASP-Cotonou chapter held its fourth meeting on ***<i>"The job of the IT auditor: Challenges and Opportunities"</i>*** which took place on October,19 2023 in Cotonou, in the grounds of APDP BENIN and was a great success; thanks to you all.
+
+The main topic of the meeting was the challenges and opportunities of the IT auditor. The speakers addressed topics related to the topic and it was also an opportunity to discover the opportunities offered by the OWASP community to its active members.
+
+<h5>Speakers</h5>
+
+<ul>
+<li>
+    Dr Emery ASSOGBA, Doctor in engineering science, computer networks option. PhD, Certified Ethical Hacker, exposes 
+    <a href="">
+    Auditing norms and standards for the IT function within an organization: Practical values</a>
+</li>
+
+<li>
+    Dr Evariste SONGBE, accounting expert, exposes 
+    <a href="">
+    The importance of auditing in the life of an organization: Lessons learned.</a>
+</li>
+
+</ul>
+
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://apdp.bj">APDP BENIN</a>,
+<a href="https://emes.bj/">EMES</a>, <a href="https://asin.bj">ASIN BENIN</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+
+OWASP-Cotonou.
+
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+
+JINF-CTF was a free computer security problem solving competition organized the last 10/02/2023 by EMES Sarl for computer science students in Benin on the occasion of the computer science day organized by IFRI. It was an opportunity to introduce some web vulnerabilities such as IDOR and XXE
+
+<h5>Speakers</h5>
+
+<ul>
+<li>
+    Ing Célia Kassa, Network Engineer, exposes 
+    <a href="assets/images/owasp-idor.pptx">
+    Insecure Direct Object Reference(IDOR)</a>
+</li>
+
+<li>
+    Ing Orace Kpakpo, Network Engineer, exposes 
+    <a href="assets/images/owasp-xml-entity.pptx">
+    XML External Entity(XXE)</a>
+</li>
+
+</ul>
+
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://ifri-uac.bj/">IFRI</a>,<a href="https://emes.bj/">EMES</a> for their support during the organization of this event. Once again, a very big thanks to you.
+
+OWASP-Cotonou.
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+
 The OWASP-Cotonou chapter held its third meeting on ***<i>"Web applications: improving or endangering the lives of users?"</i>*** which took place on April 20, 2023 in Cotonou, in the grounds of PIGIER BENIN and was a great success.
 
 The main topic of the meeting was impact of web applications on end user. The speakers addressed topics related to the topic. It was an opportunity to discover the opportunities offered by the OWASP community to its active members.
