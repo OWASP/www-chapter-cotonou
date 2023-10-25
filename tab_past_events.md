@@ -25,6 +25,9 @@ The main topic of the meeting was the challenges and opportunities of the IT aud
     The importance of auditing in the life of an organization: Lessons learned.</a>
 </li>
 
+<li>
+    <a href="https://cio-mag.com/cybsersecurite-lowasp-forme-a-la-securite-des-applications/">Cybersecurity: OWASP trains in application security.</a>
+</li>
 </ul>
 
 The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://apdp.bj">APDP BENIN</a>,
