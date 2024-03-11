@@ -6,7 +6,7 @@ tab: true
 order: 2
 tags: Cotonou
 ---
-
+ 
 
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
