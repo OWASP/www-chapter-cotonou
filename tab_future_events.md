@@ -18,7 +18,7 @@ For more details on our future events please visit our meetup group:
 
 <h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
 
-<img src='assets/images/owasp-meeting-600x440.jpg'><br/>
+<img src='assets/images/meeting-juillet-2024.jpg'><br/>
 The OWASP-Cotonou chapter will hold its firth meeting on ***<i>"IT security awareness"</i>*** which will take place on July, 25 2024 in Cotonou, in the grounds of IFRI.
 
 The meeting will highlight the importance of IT security awareness within organizations and society at large, addressing topics such as social engineering, security training, awareness of the importance of security, digital hygiene.
