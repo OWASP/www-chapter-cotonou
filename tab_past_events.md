@@ -7,6 +7,22 @@ order: 4
 tags: Cotonou
 ---
 
+The OWASP-Cotonou chapter  hold its firth meeting on "IT security awareness" which   taken place on July, 25 2024 in Cotonou, in the grounds of IFRI.
+
+The meeting highlighted  the importance of IT security awareness within organizations and society at large, addressing topics such as social engineering, security training, awareness of the importance of security, digital hygiene.
+
+<img src='assets/images/meeting-juillet-2024.jpg'><br/>
+
+<h5>Speaker</h5>
+
+<ul>
+<li>
+    Adonis HOMEVO, Cybersecurity Analyst
+</li>
+</ul>
+The OWASP-Cotonou chapter would like to thank everyone and especially  <a href="https://asin.bj">ASIN BENIN</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+OWASP-Cotonou.
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 Owasp Cotonou organized in partnership with ASIN Benin, a training workshop for IT professionals on the theme: "awareness of IT security" 24 IT security professionals and stakeholders took part in this training workshop.
 
@@ -16,15 +32,11 @@ Owasp Cotonou organized in partnership with ASIN Benin, a training workshop for 
 <li>
     Ismène DEGUENONVO,  Cybersecurity Analyst at ASIN
 </li>
-
 <li>
     Débora CODJIA, Cybersecurity Analyst at ASIN
 </li>
-
- <img src="assets/images/image1-formation-19-07-2024.jpeg" width="450" height="300">|<img src="assets/images/image2-formation-19-07-24.jpeg" width="450" height="300">    
+ 
   <img src="assets/images/owasp-formation.jpg">
-
-  
  </ul>
 The OWASP-Cotonou chapter would like to thank everyone and especially  <a href="https://asin.bj">ASIN BENIN</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
     
