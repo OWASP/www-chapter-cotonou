@@ -35,6 +35,7 @@ Owasp Cotonou organized in partnership with ASIN Benin, a training workshop for 
 <li>
     Débora CODJIA, Cybersecurity Analyst at ASIN
 </li>
+ 
   <img src="assets/images/owasp-formation.jpg">
  </ul>
 The OWASP-Cotonou chapter would like to thank everyone and especially  <a href="https://asin.bj">ASIN BENIN</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
