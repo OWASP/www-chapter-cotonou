@@ -7,6 +7,31 @@ order: 4
 tags: Cotonou
 ---
 
+
+Owasp Cotonou organized in partnership with ASIN Benin, a training workshop for IT professionals on the theme: "awareness of IT security" 24 IT security professionals and stakeholders took part in this training workshop.
+
+<h5>Speakers</h5>
+
+<ul>
+<li>
+    Ismène DEGUENONVO,  Cybersecurity Analyst at ASIN
+</li>
+
+<li>
+    Débora CODJIA, Cybersecurity Analyst at ASIN
+</li>
+
+ <img src="assets/images/image1-formation-19-07-2024.jpeg" width="450" height="300">|<img src="assets/images/image2-formation-19-07-2024.jpeg" width="450" height="300">    
+  <img src="assets/images/owasp-formation.jpg">
+
+  
+ </ul>
+The OWASP-Cotonou chapter would like to thank everyone and especially  <a href="https://asin.bj">ASIN BENIN</a> for their support during the organization of this meeting. Once again, a very big thanks to you.
+    
+OWASP-Cotonou.
+
+<h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+
 The OWASP-Cotonou chapter held its fourth meeting on ***<i>"The job of the IT auditor: Challenges and Opportunities"</i>*** which took place on October,19 2023 in Cotonou, in the grounds of APDP BENIN and was a great success; thanks to you all.
 
 The main topic of the meeting was the challenges and opportunities of the IT auditor. The speakers addressed topics related to the topic and it was also an opportunity to discover the opportunities offered by the OWASP community to its active members.
