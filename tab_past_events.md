@@ -22,7 +22,6 @@ The meeting highlighted  the importance of IT security awareness within organiza
 </ul>
 The OWASP-Cotonou chapter would like to thank everyone and especially <a href="http://ifri.uac.bj/">IFRI</a>, <a href="https://asin.bj">ASIN BENIN</a>, <a href="https://apdp.bj">APDP BENIN</a>, <a href="https://emes.bj/">EMES</a>, for their support during the organization of this meeting. Once again, a very big thanks to you.
 
-The OWASP-Cotonou chapter would like to thank everyone and especially APDP,EMES for their support during the organization of this meeting. Once again, a very big thanks to you.
 <h4>-------------------------------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 Owasp Cotonou organized in partnership with ASIN Benin, a training workshop for IT professionals on the theme: "awareness of IT security" 24 IT security professionals and stakeholders took part in this training workshop.
