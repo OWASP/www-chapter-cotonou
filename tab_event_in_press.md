@@ -1,6 +1,6 @@
 ---
 title: events_in_media
-displaytext: Events in media
+displaytext: Events in press
 layout:  null
 tab: true
 order: 5
