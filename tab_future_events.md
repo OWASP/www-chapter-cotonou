@@ -7,7 +7,7 @@ order: 2
 tags: Cotonou
 ---
 
-### AI and Privacy: How to Avoid Data Leaks
+### AI and Privacy: How to avoid data leaks
 
 The OWASP-Cotonou chapter  will held its next meeting on the subject "AI and Privacy: How to Avoid Data Leaks" on May, 2 2025 in Cotonou, in the grounds of APDP (Personal Data Protection Authority).
 
