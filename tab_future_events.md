@@ -20,6 +20,8 @@ The meeting will explore the impact of artificial intelligence on privacy protec
     Emery K. ASSOGBA, PMP, ISO 27001 LA,PhD
 </li>
 </ul>
+
+<img src='assets/images/owasp-mai-2025.jpg'><br/>
 <h4>---------------------------------------------------------------------------------------------------------------------------------</h4>
 
 ### Next Meeting/Event(s)
