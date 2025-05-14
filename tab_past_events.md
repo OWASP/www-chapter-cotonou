@@ -7,6 +7,37 @@ order: 4
 tags: Cotonou
 ---
 
+### AI and Privacy: How to avoid data leaks
+
+The OWASP-Cotonou chapter  will held its next meeting on the subject "AI and Privacy: How to Avoid Data Leaks" on May, 2 2025 in Cotonou, in the grounds of APDP (Personal Data Protection Authority).
+
+The meeting will explore the impact of artificial intelligence on privacy protection and identify concrete strategies to prevent data leaks, while raising awareness of the ethical and technical issues related to the use of AI in the management of personal information.
+
+<h5>Speaker</h5>
+
+<ul>
+<li>
+    Emery K. ASSOGBA, PMP, ISO 27001 LA,PhD
+</li>
+</ul>
+
+<img src='assets/images/owasp-mai-2025.jpg'><br/>
+
+The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://asin.bj">ASIN BENIN</a>, <a href="https://apdp.bj">APDP BENIN</a>, <a href="https://emes.bj/">EMES</a>, for their support during the organization of this meeting. Once again, a very big thanks to you.
+
+They talked about the meeting:
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <a href="https://www.youtube.com/live/8QO26LZLkTQ?si=uw6aC06cAEtDJliu&t=373" target="_blank">
+    <img src="assets/images/benintvowasp.png" alt="Le journal de 20h du 06 mai 2025" width="150" height="150">
+  </a>
+  <a href="https://lanation.bj/numerique/protection-des-donnees-a-lere-de-lintelligence-artificielle-les-acteurs-outilles-sur-la-resilience-numerique" target="_blank">
+    <img src="assets/images/nationowasp.png" alt="Protection des données à l’ère de l’Intelligence artificielle: Les acteurs outillés sur la résilience numérique" width="150" height="150">
+  </a>
+</div>
+
+<h4>---------------------------------------------------------------------------------------------------------------------------------</h4>
+
 The OWASP-Cotonou chapter  hold its firth meeting on "IT security awareness" which   taken place on July, 25 2024 in Cotonou, in the grounds of IFRI.
 
 The meeting highlighted  the importance of IT security awareness within organizations and society at large, addressing topics such as social engineering, security training, awareness of the importance of security, digital hygiene.
