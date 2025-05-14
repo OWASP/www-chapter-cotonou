@@ -29,14 +29,14 @@ They talked about the meeting:
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
    <a href="https://youtu.be/1xJ2y_NF004" target="_blank">
-    <img src="assets/images/owasp2.png" alt="Protection des données à l’ère de l’Intelligence artificielle: Les acteurs outillés sur la résilience numérique" width="450" height="450">
+    <img src="assets/images/owasp2.png" alt="Protection des données à l’ère de l’Intelligence artificielle: Les acteurs outillés sur la résilience numérique" width="250" height="250">
   </a>
 
   <a href="https://www.youtube.com/live/8QO26LZLkTQ?si=uw6aC06cAEtDJliu&t=373" target="_blank">
-    <img src="assets/images/benintvowasp.png" alt="Le journal de 20h du 06 mai 2025" width="450" height="450">
+    <img src="assets/images/benintvowasp.png" alt="Le journal de 20h du 06 mai 2025" width="250" height="250">
   </a>
   <a href="https://lanation.bj/numerique/protection-des-donnees-a-lere-de-lintelligence-artificielle-les-acteurs-outilles-sur-la-resilience-numerique" target="_blank">
-    <img src="assets/images/nationowasp.png" alt="Protection des données à l’ère de l’Intelligence artificielle: Les acteurs outillés sur la résilience numérique" width="450" height="450">
+    <img src="assets/images/nationowasp.png" alt="Protection des données à l’ère de l’Intelligence artificielle: Les acteurs outillés sur la résilience numérique" width="250" height="250">
   </a>
 </div>
 
