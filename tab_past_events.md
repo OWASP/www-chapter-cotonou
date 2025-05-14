@@ -21,7 +21,7 @@ The meeting will explore the impact of artificial intelligence on privacy protec
 </li>
 </ul>
 
-<img src='assets/images/owasp-mai-2025.jpg'><br/>
+<img src='assets/images/owasp-mai-2025.jpg' width="250" height="250"><br/>
 
 The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://asin.bj">ASIN BENIN</a>, <a href="https://apdp.bj">APDP BENIN</a>, <a href="https://emes.bj/">EMES</a>, for their support during the organization of this meeting. Once again, a very big thanks to you.
 
