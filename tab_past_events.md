@@ -17,7 +17,13 @@ The meeting will explore the impact of artificial intelligence on privacy protec
 
 <ul>
 <li>
-    Emery K. ASSOGBA, PMP, ISO 27001 LA,PhD
+    Emery K. ASSOGBA, PMP, ISO 27001 LA,PhD <a href="assets/images/ia_viee_privee_comment_eviter_fuite_de_donnes_assogba_emery.pdf">
+    L’IA et la vie privée: comment éviterles fuitesde données?</a>
+</li>
+
+<li>
+    Ing. Célia KASSA <a href="assets/images/Securiser-lIA-Generative-avec-OWASP.pdf">
+   Sécuriser l'IA Générative avec OWASP</a>
 </li>
 </ul>
 
