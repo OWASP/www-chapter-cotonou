@@ -17,7 +17,9 @@ OWASP Cotonou
 -------------
 
 Welcome to the Cotonou chapter homepage. The chapter board is <a href="mailto:emerykouassi.assogba@owasp.org">Emery Assogba</a>, <a href="mailto:janvier.ahouansou@owasp.org">Janvier Ahouansou</a>, <a href="mailto:orace.kpakpo@owasp.org">Orace Kpakpo</a>, <a href="mailto:celia.ablakassa@owasp.org">Célia Abla Kassa</a> and <a href="mailto:abousidikou.odjo@owasp.org">Abousidikou Odjo</a>.
-<img src='assets/images/owaspCotonou.png' ><br/>
+
+<img src='assets/images/owaspCotonou.png' width="325" height="182" ><br/>
+
 OWASP-Cotonou Chapter aims
 --------------------------
 
