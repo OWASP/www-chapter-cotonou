@@ -18,7 +18,7 @@ For more details on our future events please visit our meetup group:
 
 The OWASP-Cotonou branch will hold its next meeting on the theme "AI in the service of threat detection: myth or reality" on July 3, 2025 in Cotonou, at PIGIER Cotonou.
 
- <img src='assets/images/owasp030725.jpg' width="250" height="250"><br/>
+ <img src='assets/images/owasp030725.jpg' ><br/>
 
 
 
