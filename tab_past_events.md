@@ -7,9 +7,34 @@ order: 4
 tags: Cotonou
 ---
 
+### AI in the service of threat detection: myth or reality
+
+The OWASP-Cotonou branch will held its last meeting on the theme "AI in the service of threat detection: myth or reality" on July 3, 2025 in Cotonou, at PIGIER Cotonou.
+
+<h5>Speaker</h5>
+
+<ul>
+<li>
+    Jediel ADEFOULOU, Analyste cybersécurité <a href="assets/images/IA-au-service-détection-menaces-mythe-realite.pdf">
+    L’IA au service de la détection des menaces: mythe ou réalité?</a>
+</li>
+
+</ul>
+
+They talked about the meeting:
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+   <a href="https://youtu.be/6bLx05EExBY" target="_blank">
+    <img src="assets/images/iadetectmenaces.png" alt="Sécurité et nouvelles technologies : OWASP forme sur les risques liés à l’intelligence artificielle" width="250" height="250">
+  </a>
+
+</div>
+
+ <img src='assets/images/owasp030725.jpg' ><br/>
+
 ### AI and Privacy: How to avoid data leaks
 
-The OWASP-Cotonou chapter  will held its next meeting on the subject "AI and Privacy: How to Avoid Data Leaks" on May, 2 2025 in Cotonou, in the grounds of APDP (Personal Data Protection Authority).
+The OWASP-Cotonou chapter  held its last meeting on the subject "AI and Privacy: How to Avoid Data Leaks" on May, 2 2025 in Cotonou, in the grounds of APDP (Personal Data Protection Authority).
 
 The meeting will explore the impact of artificial intelligence on privacy protection and identify concrete strategies to prevent data leaks, while raising awareness of the ethical and technical issues related to the use of AI in the management of personal information.
 
