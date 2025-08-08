@@ -7,6 +7,31 @@ order: 4
 tags: Cotonou
 ---
 
+### WASP COTONOU a participé aux travaux du premier Forum International sur la Protection des Données à Caractère Personnel (FIPDCP) à Lomé.
+
+<img src='assets/images/owasp-FIPDCP.jpg' ><br/>
+
+Le Forum International sur la Protection des Données à caractère Caractère Personnel (FIPDCP) tenu les 28-29 et 30 juillet 2025 à Lomé en République Togolaise, a été une rencontre de type international qui a réuni des spécialistes relavant relevant aussi bien du secteur public que du privé et dont l’expertise dans le domaine de la cybersécurité est avérée. <br/>
+La salle de conférence Agora Senghor a servi de cadre pour les activités dudit forum placé sous le thème : « Les enjeux de la protection des données au Togo ». Lancés par le Président de l’Instance de Protection des Données à Caractère Personnel (l’IPDCP), le Lieutenant-Colonel Bédiani BELEI, qui, dans une allocution solennelle, a salué cette initiative comme un moment décisif dans la construction d’une gouvernance responsable et souveraine des données au Togo et en Afrique. <br/>
+Le paneliste Monsieur Nonfodji Janvier AHOUANSOU, Ingénieur en Sécurité Informatique et Leader du Chapitre Cotonou de la fondation OWASP a partagé ses 17 années d’expérience dans le monde de la protection des infrastructures supports des services essentiels du secteur de la microfinance au Bénin. . Le mercredi 30 juillet 205, durant plus de 60 minutes, Monsieur Nonfodji Janvier AHOUANSOU et ses co-panelistes ont éclairé les participants sur la problématique « Protection des Infrastructures Essentielles et Critiques ». Un Ce panel multi-acteurs modéré par Madame Edwige d’ALMEIDA, Responsable projet IT et solutions digitales, est composé de : <br/>
+<ul>
+<li>
+  M. Nonfodji Janvier AHOUANSOU, Ingénieur en Sécurité Informatique, chef Cellule Informatique à l’ANSSFD au Bénin et Leader du Chapitre Cotonou de la Fondation OWASP ;
+</li>
+<li>
+M. Djibril MAHAM, Ancien ingénieur en informatique et calcul haute performance à la NASA, Consultant au Département de la Défense Américaine, CEO CSIS ;
+</li>
+<li>
+M. Franck Tété ADJEGAN, Ingénieur informatique et télécommunications, Directeur technique chez ZTE Corporation 
+</li>
+<li>
+M. Yao Justin KOUMAKO, Doctorant en droit de la cybersécurité, Délégué à la protection des données personnelles (Lion) et membres du comité technique de FIPDCP ;
+</li>
+</ul>
+A la demande de la modératrice, le représentant de la Fondation OWASP-Cotonou justifie la contribution de son association dans la protection des IIE / IIC. Il explique que les infrastructures essentielles et critiques ne fonctionnement pas sans une couche applicative intermédiaire entre le matériel (capteurs, IIoT, automates programmables) et l’humain qui communique les actions à l’équipement. Ainsi, les bonnes pratiques de OWASP et la actions de sensibilisation qu’elle délivre gratuitement, viennent alors renforcées la sécurité de ces applications web / mobiles pour protéger lesdites IIE/IIC.
+A la fin des travaux, l’Expert recommande l’une approche globale pour la protection des IIE / IIC allant de la prévention, la résilience et à la coopération publique / privée, nationale / internationale. 
+
+
 ### AI in the service of threat detection: myth or reality
 
 The OWASP-Cotonou branch will held its last meeting on the theme "AI in the service of threat detection: myth or reality" on July 3, 2025 in Cotonou, at PIGIER Cotonou.
@@ -25,7 +50,7 @@ They talked about the meeting:
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
    <a href="https://youtu.be/6bLx05EExBY" target="_blank">
-    <img src="assets/images/iadetectmenaces.png" alt="Sécurité et nouvelles technologies : OWASP forme sur les risques liés à l’intelligence artificielle" width="250" height="250">
+    <img src="assets/images/iadetectmenaces.png" alt="Sécurité et nouvelles technologies : OWASP forme sur les risques liés à l’intelligence artificielle" >
   </a>
 
 </div>
