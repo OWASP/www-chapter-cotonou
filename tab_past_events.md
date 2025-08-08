@@ -7,16 +7,16 @@ order: 4
 tags: Cotonou
 ---
 
-### WASP COTONOU a participé aux travaux du premier Forum International sur la Protection des Données à Caractère Personnel (FIPDCP) à Lomé.
+### OWASP COTONOU a participé aux travaux du premier Forum International sur la Protection des Données à Caractère Personnel (FIPDCP) à Lomé.
 
-<img src='assets/images/owasp-FIPDCP.jpg' ><br/>
+<img src='assets/images/owasp-FIPDCP.jpeg' ><br/>
 
-Le Forum International sur la Protection des Données à caractère Caractère Personnel (FIPDCP) tenu les 28-29 et 30 juillet 2025 à Lomé en République Togolaise, a été une rencontre de type international qui a réuni des spécialistes relavant relevant aussi bien du secteur public que du privé et dont l’expertise dans le domaine de la cybersécurité est avérée. <br/>
-La salle de conférence Agora Senghor a servi de cadre pour les activités dudit forum placé sous le thème : « Les enjeux de la protection des données au Togo ». Lancés par le Président de l’Instance de Protection des Données à Caractère Personnel (l’IPDCP), le Lieutenant-Colonel Bédiani BELEI, qui, dans une allocution solennelle, a salué cette initiative comme un moment décisif dans la construction d’une gouvernance responsable et souveraine des données au Togo et en Afrique. <br/>
-Le paneliste Monsieur Nonfodji Janvier AHOUANSOU, Ingénieur en Sécurité Informatique et Leader du Chapitre Cotonou de la fondation OWASP a partagé ses 17 années d’expérience dans le monde de la protection des infrastructures supports des services essentiels du secteur de la microfinance au Bénin. . Le mercredi 30 juillet 205, durant plus de 60 minutes, Monsieur Nonfodji Janvier AHOUANSOU et ses co-panelistes ont éclairé les participants sur la problématique « Protection des Infrastructures Essentielles et Critiques ». Un Ce panel multi-acteurs modéré par Madame Edwige d’ALMEIDA, Responsable projet IT et solutions digitales, est composé de : <br/>
+Le Forum International sur la Protection des Données à Caractère Personnel (FIPDCP) tenu les 28-29 et 30 juillet 2025 à Lomé en République Togolaise, a été une rencontre de type international qui a réuni des spécialistes relevant aussi bien du secteur public que du privé et dont l’expertise dans le domaine de la cybersécurité est avérée. <br/>
+La salle de conférence Agora Senghor a servi de cadre pour les activités dudit forum placé sous le thème : « Les enjeux de la protection des données au Togo ». Lancés par le Président de l’IPDCP, le Lieutenant-Colonel Bédiani BELEI, qui, dans une allocution solennelle, a salué cette initiative comme un moment décisif dans la construction d’une gouvernance responsable et souveraine des données au Togo et en Afrique. <br/>
+Le paneliste Monsieur [Nonfodji Janvier Ahouansou](mailto:janvier.ahouansou@owasp.org) , Ingénieur en Sécurité Informatique et Leader du Chapitre Cotonou de la fondation OWASP a partagé ses 17 années d’expérience dans le monde de la protection des infrastructures supports des services essentiels du secteur de la microfinance au Bénin. Le mercredi 30 juillet 205, durant plus de 60 minutes, Monsieur Nonfodji Janvier AHOUANSOU et ses co-panelistes ont éclairé les participants sur la problématique « Protection des Infrastructures Essentielles et Critiques ». Ce panel modéré par Madame Edwige d’ALMEIDA, Responsable projet IT et solutions digitales, est composé de : <br/>
 <ul>
 <li>
-  M. Nonfodji Janvier AHOUANSOU, Ingénieur en Sécurité Informatique, chef Cellule Informatique à l’ANSSFD au Bénin et Leader du Chapitre Cotonou de la Fondation OWASP ;
+  [Nonfodji Janvier Ahouansou](mailto:janvier.ahouansou@owasp.org), Ingénieur en Sécurité Informatique, chef Cellule Informatique à l’ANSSFD au Bénin et Leader du Chapitre Cotonou de la Fondation OWASP ;
 </li>
 <li>
 M. Djibril MAHAM, Ancien ingénieur en informatique et calcul haute performance à la NASA, Consultant au Département de la Défense Américaine, CEO CSIS ;
@@ -56,6 +56,8 @@ They talked about the meeting:
 </div>
 
  <img src='assets/images/owasp030725.jpg' ><br/>
+
+ The OWASP-Cotonou chapter would like to thank everyone and especially <a href="https://asin.bj">ASIN BENIN</a>, <a href="https://pigier-benin.com">PIGIER BENIN</a>, <a href="https://emes.bj/">EMES</a>, for their support during the organization of this meeting. Once again, a very big thanks to you.
 
 ### AI and Privacy: How to avoid data leaks
 
