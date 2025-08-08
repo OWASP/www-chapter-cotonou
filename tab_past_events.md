@@ -54,7 +54,7 @@ They talked about the meeting:
   </a>
 
    <a href="https://lematinal.bj/cybersecurite-et-intelligence-artificielle-des-professionnels-renforcent-leurs-capacites/" target="_blank">
-    <img src="assets/images/owasp-meeting-ia-detect-menace.png" alt="Des professionnels ont été outillés sur la cybersécurité et l'Intelligence artificielle hier jeudi 03 juillet 2025, à l'institut privé d'Enseignement supérieur Pigier à Cotonou. La session de formation et de sensibilisation est organisée par Open worldwide application security project (Owasp), chapitre Cotonou, en partenariat avec l'Agence des systèmes d'information et du numérique (Asin)." width="250" height="250">
+    <img src="assets/images/owasp-meeting-ia-detect-menace-fraternite.png" alt="Des professionnels ont été outillés sur la cybersécurité et l'Intelligence artificielle hier jeudi 03 juillet 2025, à l'institut privé d'Enseignement supérieur Pigier à Cotonou. La session de formation et de sensibilisation est organisée par Open worldwide application security project (Owasp), chapitre Cotonou, en partenariat avec l'Agence des systèmes d'information et du numérique (Asin)." width="250" height="250">
   </a>
 
 </div>
