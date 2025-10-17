@@ -1,0 +1,31 @@
+leaders:
+  - name: Emery Kouassi Assogba
+    email: emerykouassi.assogba@owasp.org
+    github: akemery
+  - name: Orace Kpakpo
+    email: orace.kpakpo@owasp.org
+    github: orace-github
+  - name: Célia Abla Kassa
+    email: celia.ablakassa@owasp.org
+    github: celiakassa
+  - name: Nonfodji Janvier Ahouansou
+    email: janvier.ahouansou@owasp.org
+location:
+  country: Benin
+  country_code: BJ
+  region: Littoral
+  city: Cotonou
+  postal_code: 05 BP 2473
+  latitude: 6.3556562
+  longitude: 2.4194464
+meetup_group: owasp-cotonou-chapter
+name: OWASP Cotonou
+repositories:
+  - name: www-chapter-cotonou
+    url: https://github.com/OWASP/www-chapter-cotonou
+    description: OWASP Foundation Web Repository
+tags:
+  - Cotonou
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-cotonou
