@@ -14,11 +14,13 @@ For more details on our future events please visit our meetup group:
 
 [https://www.meetup.com/owasp-cotonou-chapter/](https://www.meetup.com/owasp-cotonou-chapter/)
 
-### Formation sur l'IA et la cyversécurité
+### Formation sur l'IA et la cybersécurité
 
 Le chapitre OWASP organise le 4 décembre 2025 une formation sur l'IA et la cybersécurité à l' <a href="https://maps.app.goo.gl/kUbrPtBGAg9QPSzq8" >
    APDP à Jericho, Cotonou ?</a> 
 La formation de 8h est conçue comme une immersion pratique, avec un mix de théorie, démos et exercices. Elle cible 20-30 participants, en utilisant des outils gratuits comme Google Colab pour l'IA et OWASP ZAP pour les tests. Le syllabus intègre les tendances 2025 : l'IA transformative pour la défense (marché en croissance x10 d'ici 2034) et les menaces comme les AI agents autonomes pour les campagnes d'attaque. L’objectif global est d’équiper les participants pour intégrer l'IA dans leurs pratiques OWASP, avec un certificat de participation.
+
+ <img src='assets/images/owasp041225.jpg' ><br/>
 
 ### Intelligence artificielle générative : Un nouvel allié pour les cybercriminels ? 
 
