@@ -41,6 +41,11 @@ La formation de 8h est conçue comme une immersion pratique, avec un mix de thé
     Perspectives futures et éthique</a>
 </li>
 
+<li>
+    Marina GBEMENOU, Analyst Cyber securité e <a href="assets/images/SLIPS.pdf">
+    Présentation de SLIPS</a>
+</li>
+
 </ul>
 
  <img src='assets/images/owasp041225.jpg' ><br/>
