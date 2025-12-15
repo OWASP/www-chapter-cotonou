@@ -26,6 +26,21 @@ La formation de 8h est conçue comme une immersion pratique, avec un mix de thé
     Menaces émergentes L'IA au service des cybercriminels</a>
 </li>
 
+<li>
+    Ing. ZINKPE Gildas RSSI MCVT <a href="assets/images/Module-2.pdf">
+    Défenses innovantes Intégrer l'IA dans la cybersécurité</a>
+</li>
+
+<li>
+    Dr. Emery ASSOGBA, PMP, ISO 27001 LA <a href="assets/images/Module-3.pdf">
+    Ateliers pratiques Simulation d'attaques et contremesures</a>
+</li>
+
+<li>
+    Ing. Janvier AHOUANSOU, DPO, CCI ANSSFD <a href="assets/images/Prespective-2026.pdf">
+    Perspectives futures et éthique</a>
+</li>
+
 </ul>
 
  <img src='assets/images/owasp041225.jpg' ><br/>
